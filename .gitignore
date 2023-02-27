@@ -1,2 +1,3 @@
 flaskapp.wsgi
 env
+**/__pycache__
