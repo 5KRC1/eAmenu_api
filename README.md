@@ -13,7 +13,7 @@ git clone https://github.com/5KRC1/eAmenu_api && cd eAmenu_api
 ```
 - install dependencies
 ```bash
-pip3 install -r requirements
+pip3 install -r requirements.txt
 ```
 - run flask server
 ```bash
